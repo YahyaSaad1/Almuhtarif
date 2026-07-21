@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
     colors: {
-      "first-color": "#1c77ff",
+      "first-color": "#0d6efd",
       "hover-first-color": "#216ad9",
       "second-color": "#F8F6F3",
       "accent-color": "#FFE836",
